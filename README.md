@@ -35,7 +35,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 - **Cachaçaria Fazenda do Engenho**  
   Desenvolvimento de um site e-commerce para a Cachaçaria Fazenda do Engenho, com uma experiência fluida para o usuário, integração de pagamento com MercadoPago e gerenciamento de pedidos através de um back-end robusto.
-  **[Cachaçaria Fazenda do Engenho](https://cachacascapitao.com.br)**  
+  **[Site(https://cachacascapitao.com.br)**  
 
 ## 📈 Objetivos Futuros
 Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologias mais avançadas e explorando novas áreas como DevOps e arquitetura de software. Planejo também contribuir para a comunidade open-source e desenvolver projetos que impactem positivamente a experiência digital de usuários ao redor do mundo.
@@ -45,4 +45,4 @@ Fique à vontade para entrar em contato comigo por qualquer um dos meios abaixo:
 
 - **Email:** paulo.cemf2018@gmail.com
 
-Vamos construir algo incrível juntos!
+**Vamos construir algo incrível juntos!**
