@@ -19,7 +19,7 @@ Trabalho com um conjunto diversificado de ferramentas e linguagens que me permit
 - **Hospedagem e Gerenciamento de Projetos:** Vercel, Netlify, Visual Studio Code
 
 ## 🌟 Metodologia de Trabalho
-Acredito em um desenvolvimento ágil e colaborativo, baseado em três pilares principais:
+Acredito em um desenvolvimento baseado em três pilares principais:
 
 1. **Planejamento Estratégico**  
    Cada projeto começa com um entendimento aprofundado das necessidades e objetivos do cliente. A partir disso, estabeleço um plano detalhado para cada etapa do desenvolvimento, desde o design inicial até a entrega final.
