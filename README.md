@@ -18,6 +18,12 @@ Trabalho com um conjunto diversificado de ferramentas e linguagens que me permit
 - **Ferramentas de Versionamento:** Git, GitHub
 - **Hospedagem e Gerenciamento de Projetos:** Vercel, Netlify, Visual Studio Code
 
+## 💡 Principais Projetos
+Aqui estão alguns dos projetos que desenvolvi:
+
+- **Cachaçaria Fazenda do Engenho**  
+  Desenvolvimento de um site e-commerce para a Cachaçaria Fazenda do Engenho, com uma experiência fluida para o usuário, integração de pagamento com Mercado Pago e gerenciamento de pedidos através de um back-end robusto.[Site(https://cachacascapitao.com.br)]  
+
 ## 🌟 Metodologia de Trabalho
 Acredito em um desenvolvimento baseado em três pilares principais:
 
@@ -29,13 +35,6 @@ Acredito em um desenvolvimento baseado em três pilares principais:
 
 3. **Qualidade e Performance**  
    Todos os projetos são entregues com foco em alta performance, segurança e usabilidade. Adoto práticas de desenvolvimento que garantem uma experiência do usuário agradável, interfaces responsivas e código limpo e escalável.
-
-## 💡 Principais Projetos
-Aqui estão alguns dos projetos que desenvolvi:
-
-- **Cachaçaria Fazenda do Engenho**  
-  Desenvolvimento de um site e-commerce para a Cachaçaria Fazenda do Engenho, com uma experiência fluida para o usuário, integração de pagamento com Mercado Pago e gerenciamento de pedidos através de um back-end robusto.
-  **[Site(https://cachacascapitao.com.br)**  
 
 ## 📈 Objetivos Futuros
 Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologias mais avançadas e explorando novas áreas como DevOps e arquitetura de software. Planejo também contribuir para a comunidade open-source e desenvolver projetos que impactem positivamente a experiência digital de usuários ao redor do mundo.
