@@ -34,7 +34,7 @@ Acredito em um desenvolvimento baseado em três pilares principais:
 Aqui estão alguns dos projetos que desenvolvi:
 
 - **Cachaçaria Fazenda do Engenho**  
-  Desenvolvimento de um site e-commerce para a Cachaçaria Fazenda do Engenho, com uma experiência fluida para o usuário, integração de pagamento com MercadoPago e gerenciamento de pedidos através de um back-end robusto.
+  Desenvolvimento de um site e-commerce para a Cachaçaria Fazenda do Engenho, com uma experiência fluida para o usuário, integração de pagamento com Mercado Pago e gerenciamento de pedidos através de um back-end robusto.
   **[Site(https://cachacascapitao.com.br)**  
 
 ## 📈 Objetivos Futuros
