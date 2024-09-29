@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 Acredito em um desenvolvimento baseado em três pilares principais:
 
 1. **Planejamento Estratégico**  
-   Cada projeto começa com um entendimento aprofundado das necessidades e objetivos do cliente. A partir disso, estabeleço um plano detalhado para cada etapa do desenvolvimento, desde o design inicial até a entrega final.
+   Cada projeto começa com um entendimento aprofundado das necessidades e objetivos do cliente. A partir disso, estabeleço um plano detalhado para cada etapa do desenvolvimento até a entrega final.
 
 2. **Transparência e Comunicação**  
    Mantenho uma comunicação clara e frequente, garantindo que o cliente esteja atualizado sobre o andamento do projeto. Feedbacks são sempre bem-vindos, e faço ajustes conforme necessário para garantir a satisfação.
