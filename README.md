@@ -44,6 +44,6 @@ Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologia
 ## 📫 Como Me Encontrar
 Fique à vontade para entrar em contato comigo por qualquer um dos meios abaixo:
 
-- **Email:** paulo.cemf2018@gmail.com
+- **Email:** paulomarianodev@gmail.com
 
 **Vamos construir algo incrível juntos!**
