@@ -11,12 +11,12 @@ Atualmente com 18 anos e apaixonado por tecnologia desde criança, iniciei minha
 Trabalho com um conjunto diversificado de ferramentas e linguagens que me permitem desenvolver desde o front-end até o back-end:
 
 - **Linguagens de Programação:** JavaScript (ES6+), Node.js
-- **Front-end:** HTML5, CSS3
-- **Back-end:** Express.js, APIs RESTful
-- **Banco de Dados:** SQL
+- **Desenvolvimento Front-end:** HTML5, CSS3
+- **Desenvolvimento Back-end:** Express.js, APIs RESTful
 - **Integração de APIs:** Axios, Fetch API
-- **Ferramentas de Versionamento:** Git, GitHub
-- **Hospedagem e Gerenciamento de Projetos:** Vercel, Netlify, Visual Studio Code
+- **Banco de Dados:** SQL
+- **Versionamento de Código:** Git, GitHub
+- **Hospedagem e IDEs:** Vercel, Netlify, Visual Studio Code
 
 ## 💡 Principais Projetos
 Aqui estão alguns dos projetos que desenvolvi:
