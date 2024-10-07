@@ -14,9 +14,7 @@ Trabalho com um conjunto diversificado de ferramentas e linguagens que me permit
 - **Desenvolvimento Front-end:** HTML5, CSS3
 - **Desenvolvimento Back-end:** Express.js, APIs RESTful
 - **Integração de APIs:** Axios, Fetch API
-- **Banco de Dados:** SQL
 - **Versionamento de Código:** Git, GitHub
-- **Hospedagem e IDEs:** Vercel, Netlify, Visual Studio Code
 
 ## 💡 Principais Projetos
 Aqui estão alguns dos projetos que desenvolvi:
