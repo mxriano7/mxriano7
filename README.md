@@ -10,7 +10,7 @@ Atualmente com 18 anos e apaixonado por tecnologia desde criança, iniciei minha
 ## 🔧 Tecnologias e Ferramentas
 Trabalho com um conjunto diversificado de ferramentas e linguagens que me permitem desenvolver desde o front-end até o back-end:
 
-- **Linguagens de Programação:** JavaScript (ES6+), Node.js
+- **Linguagens de Programação:** JavaScript (ES6+), Node.js, TypeScript
 - **Desenvolvimento Front-end:** HTML5, CSS3
 - **Desenvolvimento Back-end:** Express.js, APIs RESTful
 - **Integração de APIs:** Axios, Fetch API
