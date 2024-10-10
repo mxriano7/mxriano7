@@ -37,7 +37,7 @@ Acredito em um desenvolvimento baseado em três pilares principais:
    Todos os projetos são entregues com foco em alta performance, segurança e usabilidade. Adoto práticas de desenvolvimento que garantem uma experiência do usuário agradável, interfaces responsivas e código limpo e escalável.
 
 ## 📈 Objetivos Futuros
-Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologias mais avançadas e explorando novas áreas como DevOps e arquitetura de software. Planejo também contribuir para a comunidade open-source e desenvolver projetos que impactem positivamente a experiência digital de usuários ao redor do mundo.
+Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologias mais avançadas e explorando novas áreas. Planejo também contribuir e desenvolver projetos que impactem positivamente a experiência digital de usuários ao redor do mundo.
 
 ## 📫 Como Me Encontrar
 Fique à vontade para entrar em contato comigo por qualquer um dos meios abaixo:
