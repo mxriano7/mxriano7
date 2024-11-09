@@ -12,8 +12,7 @@ Trabalho com um conjunto diversificado de ferramentas e linguagens que me permit
 
 - **Linguagens de Programação:** JavaScript (ES6+), Node.js, TypeScript
 - **Desenvolvimento Front-end:** HTML5, CSS3
-- **Desenvolvimento Back-end:** Express.js, APIs RESTful
-- **Integração de APIs:** Axios, Fetch API
+- **Desenvolvimento Back-end:** Express.js, APIs RESTful (Node.js)
 - **Versionamento de Código:** Git, GitHub
 
 ## 💡 Principais Projetos
