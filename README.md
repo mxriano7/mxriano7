@@ -1,11 +1,13 @@
 # Paulo Mariano
 
 ## 👋 Sobre Mim
-Atualmente com 18 anos e apaixonado por tecnologia desde criança, iniciei minha trajetória na programação aos 16 anos. Desde então venho me dedicando a aprender continuamente, aprimorando minhas habilidades e aplicando meus conhecimentos em projetos que unem criatividade e funcionalidade. Atualmente, meu foco está no desenvolvimento de websites e web apps, utilizando as melhores práticas e tecnologias modernas.
+Sou um apaixonado por tecnologia e esportes, sempre em busca de novas descobertas e desafios. Minha curiosidade natural me levou a explorar o vasto universo digital, despertando em mim o desejo de aprender programação aos 16 anos. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e continuo aprimorando minhas habilidades, combinando teoria e prática para criar soluções inovadoras e eficientes. Acredito que a tecnologia tem o poder de transformar vidas e estou sempre motivado a evoluir e enfrentar novos desafios.
 
 ## 💼 Experiência Profissional
-- **Desenvolvedor Web Freelancer**  
-  Atuando como desenvolvedor web, meu foco está em ajudar empresas a criar soluções digitais sob medida, atendendo desde pequenas empresas até projetos de maior complexidade. Minhas entregas são pensadas para garantir interfaces intuitivas, alto desempenho e integração eficiente com serviços externos.
+- **Desenvolvedor Full Stack Freelancer**  
+Como desenvolvedor full stack, meu propósito é transformar ideias em soluções digitais completas. Trabalho com diversas tecnologias para criar sistemas robustos, escaláveis e intuitivos, sempre buscando a melhor experiência para o usuário. Minha trajetória inclui desde o desenvolvimento de projetos para pequenos empreendedores até a construção de sistemas mais complexos, integrando diferentes serviços e garantindo alto desempenho. Acredito que o aprendizado contínuo e a dedicação são essenciais para a inovação em cada projeto.
+
+
 
 ## 🔧 Tecnologias e Ferramentas
 Trabalho com um conjunto diversificado de ferramentas e linguagens que me permitem desenvolver desde o front-end até o back-end:
