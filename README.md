@@ -3,7 +3,7 @@
 ## 👋 Sobre Mim
 Sou um apaixonado por tecnologia e esportes, sempre em busca de novas descobertas e desafios. Minha curiosidade natural me levou a explorar o vasto universo digital, despertando em mim o desejo de aprender programação aos 16 anos. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e continuo aprimorando minhas habilidades, combinando teoria e prática para criar soluções inovadoras e eficientes. Acredito que a tecnologia tem o poder de transformar vidas e estou sempre motivado a evoluir e enfrentar novos desafios.
 
-## 💼 Experiência Profissional
+## 💼 Visão Profissional
 - **Desenvolvedor Full Stack Freelancer**  
 Como desenvolvedor full stack, meu propósito é transformar ideias em soluções digitais completas. Trabalho com diversas tecnologias para criar sistemas robustos, escaláveis e intuitivos, sempre buscando a melhor experiência para o usuário. Minha trajetória inclui desde o desenvolvimento de projetos para pequenos empreendedores até a construção de sistemas mais complexos, integrando diferentes serviços e garantindo alto desempenho. Acredito que o aprendizado contínuo e a dedicação são essenciais para a inovação em cada projeto.
 
