@@ -1,38 +1,103 @@
-# Paulo Mariano
+# 👨🏻‍💻 Paulo Mariano | Automação Industrial & Sistemas
 
-## 👋 Sobre Mim
-Sou um apaixonado por tecnologia e esportes, sempre em busca de novas descobertas e desafios. Minha curiosidade natural me levou a explorar o vasto universo digital, despertando em mim o desejo de aprender programação aos 16 anos. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e continuo aprimorando minhas habilidades, combinando teoria e prática para criar soluções inovadoras e eficientes. Acredito que a tecnologia tem o poder de transformar vidas e estou sempre motivado a evoluir e enfrentar novos desafios.
+Profissional em evolução constante na área de **Automação Industrial**, com base sólida em **Análise e Desenvolvimento de Sistemas**. Atuo integrando **software, hardware e processo industrial**, com foco em confiabilidade, eficiência e visão end-to-end da automação.
 
-## 💼 Visão Profissional
-- **Analista e Desenvolvedor de Sistemas**  
-Como Analista e Desenvolvedor de Sistemas, meu propósito é transformar ideias em soluções digitais completas. Trabalho com diversas tecnologias para criar sistemas robustos, escaláveis e intuitivos, sempre buscando a melhor experiência para o usuário. Minha trajetória inclui desde o desenvolvimento de projetos menores até a construção de sistemas mais complexos, integrando diferentes serviços e garantindo alto desempenho. Acredito que o aprendizado contínuo e a dedicação são essenciais para a inovação em cada projeto..
+Minha abordagem une prática de chão de fábrica, lógica de programação e pensamento sistêmico, entregando soluções funcionais, seguras e bem documentadas.
 
-## 🔧 Tecnologias e Ferramentas
-Trabalho com um conjunto diversificado de ferramentas e linguagens que me permitem desenvolver desde o front-end até o back-end:
+---
 
-- **Linguagens de Programação:** JavaScript (ES6+), Node.js, TypeScript
-- **Desenvolvimento Front-end:** HTML5, CSS3
-- **Desenvolvimento Back-end:** Express.js, APIs RESTful (Node.js)
-- **Versionamento de Código:** Git, GitHub
+## ⚙️ Atuação em Automação Industrial
 
-## 🌟 Metodologia de Trabalho
-Acredito em um desenvolvimento baseado em três pilares principais:
+Experiência prática consolidada em projetos de automação industrial, envolvendo:
 
-1. **Planejamento Estratégico**  
-   Cada projeto começa com um entendimento aprofundado das necessidades e objetivos do cliente. A partir disso, estabeleço um plano detalhado para cada etapa do desenvolvimento até a entrega final.
+- Programação de **CLPs**
+- Desenvolvimento e integração de **IHMs**
+- Parametrização de **inversores de frequência, servos e motores de passo**
+- Montagem e organização de **painéis elétricos**
+- Configuração e diagnóstico de **redes industriais Ethernet / TCP-IP**
+- Desenvolvimento de **projetos elétricos**
+- Integração entre dispositivos de campo e sistemas de controle
 
-2. **Transparência e Comunicação**  
-   Mantenho uma comunicação clara e frequente, garantindo que o cliente esteja atualizado sobre o andamento do projeto. Feedbacks são sempre bem-vindos, e faço ajustes conforme necessário para garantir a satisfação.
+Atuação com foco em **previsibilidade operacional**, **segurança**, **padronização** e **manutenibilidade**.
 
-3. **Qualidade e Performance**  
-   Todos os projetos são entregues com foco em alta performance, segurança e usabilidade. Adoto práticas de desenvolvimento que garantem uma experiência do usuário agradável, interfaces responsivas e código limpo e escalável.
+---
 
-## 📈 Objetivos Futuros
-Meu objetivo é evoluir como desenvolvedor full stack, mergulhando em tecnologias mais avançadas e explorando novas áreas. Planejo também contribuir e desenvolver projetos que impactem positivamente a experiência digital de usuários ao redor do mundo.
+## 🖥️ IHM Weintek – Experiência Técnica
 
-## 📫 Como Me Encontrar
-Fique à vontade para entrar em contato comigo por qualquer um dos meios abaixo:
+Desenvolvimento de IHMs Weintek integradas a equipamentos e inversores **WEG**, aplicando conceitos práticos de automação industrial.
 
-- **Email:** paulomarianodev@gmail.com
+### 🔹 Macros
+- Implementação de lógicas avançadas diretamente na IHM
+- Redução da dependência do CLP para funções locais
+- Flexibilidade para diagnósticos, automações e operações específicas
 
-**Vamos construir algo incrível juntos!**
+### 🔹 Comunicação Serial (RS-232 / RS-485)
+- Configuração completa de comunicação entre IHM, CLP, inversores e dispositivos auxiliares
+- Ajustes de baud rate, paridade, endereçamento
+- Troubleshooting em campo
+
+### 🔹 Usabilidade Industrial
+- Interfaces claras e objetivas
+- Alarmes bem definidos
+- Navegação pensada para o operador no chão de fábrica
+
+---
+
+## 🏭 Automação, Indústria 4.0 e IIoT
+
+Visão de automação além do controle básico:
+
+- **Automação:** redução de erros, desperdícios e riscos  
+- **CLPs:** execução precisa, repetível e confiável  
+- **Indústria 4.0:** monitoramento em tempo real e decisões orientadas por dados  
+- **IIoT:** conectividade, antecipação de falhas e geração de valor a partir de dados  
+
+O papel humano evolui de operador reativo para **gestor técnico do processo**.
+
+---
+
+## 🔧 Tecnologias & Conhecimentos
+
+### Automação Industrial
+- Programação de CLPs
+- Controle sequencial e lógica estruturada
+- IHMs Weintek
+- Inversores de frequência, servos e motores de passo
+- Comunicação RS-232 / RS-485
+- Redes industriais Ethernet / TCP-IP
+- Montagem de painéis elétricos
+- Projetos elétricos e documentação técnica
+
+### Base em TI (ADS)
+- Lógica de programação
+- Visão sistêmica de sistemas
+- Integração entre software e hardware
+- Organização, documentação e versionamento
+
+---
+
+## 🧠 Metodologia de Trabalho
+
+- **Planejamento e entendimento do processo**
+- **Padronização e confiabilidade**
+- **Evolução técnica contínua**
+- **Entrega de valor real ao processo**
+
+---
+
+## 📈 Objetivos
+
+- Evoluir tecnicamente em **Automação Industrial**
+- Aprofundar conhecimentos em **Indústria 4.0 e IIoT**
+- Atuar em arquitetura e integração de sistemas industriais
+- Desenvolver soluções robustas, escaláveis e bem documentadas
+
+---
+
+## 📫 Contato
+
+📧 **Email:** paulomarianodev@gmail.com
+
+---
+
+⭐ *Automação não é só ligar máquinas — é transformar processos em sistemas inteligentes, seguros e eficientes.*
