@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Paulo Mariano | Automação Industrial & Sistemas
+# 👨🏻‍💻 Paulo Mariano
 
 Profissional em evolução constante na área de **Automação Industrial**, com base sólida em **Análise e Desenvolvimento de Sistemas**. Atuo integrando **software, hardware e processo industrial**, com foco em confiabilidade, eficiência e visão end-to-end da automação.
 
